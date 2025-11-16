@@ -2,7 +2,7 @@
 authors = ["秋井乃音斗", "アリュミーニン"]
 language = "ja"
 src = "src"
-title = "青年ヘーゲル派とシチュアシオニストの課題意識の現代的展開"
+title = "Nia Pensoj"
 
 [build]
 build-dir = "docs"
