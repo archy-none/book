@@ -2,7 +2,7 @@
 authors = ["秋井乃音斗", "アリュミーニン"]
 language = "ja"
 src = "src"
-title = "Nia Pensoj"
+title = "Nia Pensado"
 
 [build]
 build-dir = "docs"
